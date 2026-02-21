@@ -1,0 +1,17 @@
+complaint_text,expected_role
+The ethernet port on the wall is completely busted.,TechSec
+I cannot log into the netaccess portal today.,TechSec
+My ping is jumping to 1000ms when I try to play games.,TechSec
+The wifi router in the extension wing is blinking red.,TechSec
+The ceiling fan in room 214 is making a terrible noise.,GenSec
+I lost the key to my almirah and need the lock broken.,GenSec
+The tube light near the staircase is completely fused.,GenSec
+The main door hinge is rusted and extremely hard to open.,GenSec
+We need a new carrom board for the TV room.,SportsSec
+Both the table tennis bats have lost their rubber grips.,SportsSec
+The footballs are totally deflated please pump them.,SportsSec
+The cable on the lat pulldown machine snapped.,SportsSec
+There is a dead bandicoot near the back exit.,HHS
+The washroom on the ground floor smells like urine.,HHS
+I found those red worms in the shower again today.,HHS
+The RO water cooler is dispensing muddy water.,HHS
